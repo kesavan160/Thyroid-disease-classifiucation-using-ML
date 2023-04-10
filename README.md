@@ -1,0 +1,1 @@
+# Thyroid-disease-classifiucation-using-ML
